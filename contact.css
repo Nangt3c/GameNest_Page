@@ -1,0 +1,117 @@
+html {
+	height: 100%;
+  width: 100%;
+  background: #0c0e0f;
+}
+
+/* Footer */
+footer {
+  padding-top: 15px;
+  background: linear-gradient(#232529, #384246);
+  text-align: center;
+  padding-bottom:15px;
+}
+
+footer h4 {
+  font-size: 26.5px;
+  text-shadow: -3px 3px 3px black;
+  color: #dfddda;
+}
+
+footer span a {
+  font-size: 50px;
+  text-shadow: -3px 3px 3px black;
+  color: #9badbf;
+  justify-content: center;
+  padding: 0px 15px;
+}
+
+footer h6 {
+  color: #9badbf;
+}
+
+/* Navbar */
+
+.navbar-brand {
+  font-family: 'Righteous';
+  color: #c0bfbc;
+  text-decoration: none;
+}
+
+.navbar-brand:hover {
+  color: #c0bfbc;
+  text-decoration: none;
+}
+
+.navbar-style {
+  background: linear-gradient(#0c0e0f, #384246);
+}
+
+.nav-link {
+  color: #c0bfbc;
+  text-decoration: none;
+  font-family: 'Ubuntu';
+}
+
+.nav-link:hover {
+  color: #c0bfbc;
+  text-decoration: none;
+}
+
+.form-control {
+  background: #0c0e0f;
+}
+
+.form-control:placeholder-shown {
+   background: #0c0e0f;
+}
+
+body {
+  background-color: black;
+}
+
+.contact-a {
+  color: #deddda;
+}
+
+
+/* Contact */
+
+.contact-bg {
+  background-image: linear-gradient(rgba(0,0,0, 0.7), rgba(0,0, 0, 1)), url(img/support.png);
+  background-position: 50%;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+.contact-title {
+  color: #dadada;
+}
+
+.contact-subtitle {
+  color: #c0bfbc;
+}
+
+.c-window {
+  background: #384246;
+  color: white;
+}
+
+.submit-btn {
+  background: #198754;
+  border-color: #198754;
+}
+
+.submit-btn:hover {
+  background: #030000;
+  border-color: #ffffff;
+}
+
+.submit-btn:active {
+  background: #030000;
+  border-color: #ffffff;
+}
+
+.text-start {
+  color: #c0bfbc;
+}

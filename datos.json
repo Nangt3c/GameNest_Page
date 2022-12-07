@@ -1,0 +1,26 @@
+{
+  "articulos": [
+            {
+              "categoria":"novedades", 
+              "titulo": "Primera imagen del ASUS ROG Zephyrus M16 2023",
+              "autor":"Saúl González",
+              "contenido":"Nuevo día, nueva filtración en el mundo del hardware, algo que es casi una constante gracias a la cual podemos ver antes de su presentación nuevos dispositivos que van a llegar en el futuro para intentar satisfacer las necesidades de los jugadores. En este caso lo que se ha filtrado es la primera imagen del ASUS ROG Zephyrus M16 o, mejor dicho, de la versión que ASUS lanzará de este portátil en el 2023 que llegará con un nuevo chasis y todo tipo de actualizaciones en su hardware para dar un extra a los que necesiten un equipo de primer nivel para jugar y trabajar que a su vez pueda transportarse con facilidad a cualquier lado.",
+              "imagen":"img/blog/leak.webp"
+            },
+            {
+               "categoria":"novedades", 
+              "titulo": "Elgato anuncia la nueva Stream Deck + para controlar tus directos",
+              "autor":"Saúl González",
+              "contenido":"Elgato, la popular marca propiedad de Crosair especializada en productos para creadores de contenidos como capturadoras o webcams ha anunciado hoy su nuevo dispositivo especialmente indicado, sobre todo, para streamers en Twitch, YouTube o cualquier otra plataforma. Esta interfaz combina ocho teclas LCD, cuatro diales pulsadores y una banda táctil dinámica, pudiendo personalizar todas ellas para su uso con todo tipo de software como Wave Link, OBS, u otros programas para crear contenido, además de poder acceder a miles de pistas y efectos de sonido libres de derechos que podemos activar al vuelo desde la interfaz que se conecta con nuestro PC a través de un cable USB.",
+              "imagen":"img/blog/streamdeck.webp"
+            },
+            {
+               "categoria":"tutoriales", 
+              "titulo": "Ratones gaming: Como elegir al comprar uno",
+              "autor":" Eva Rodríguez de Luis",
+              "contenido":"Bajo un dispositivo tan pequeño se esconden una serie de características que marcarán nuestra experiencia de juego. Mientras que algunas características como la iluminación tienen una aportación meramente estéticas, otras son clave para ofrecer un mayor rendimiento en nuestras partidas. Los DPI hacen referencia a la velocidad máxima del desplazamiento del puntero en la pantalla en relación con el movimiento de nuestra mano. De forma resumida, cuanto mayor sea el DPI, menos tendremos que mover el ratón para que el cursor se desplace por la pantalla. ¿Y en qué me afecta esto en el terreno de juego? Si necesito tener un control preciso del movimiento del personaje o del visor de un arma propia de los juegos shooting, nos conviene movernos por DPIs bajos. Sin embargo, si vamos a jugar a un MOBA – Multiplayer Online Battle Arena como puede ser el 'League of Legends' -, mejor optar por DPIs altos, con más velocidad.",
+              "contenido2":"La ergonomía: Los jugadores intensivos pasan muchas horas delante del ordenador, por lo que es muy importante mantener una buena postura evitando forzar músculos y articulaciones. Incluso el peso del raton es un factor importante.",
+              "imagen":"img/blog/grips.jpg"
+            }
+  ]
+}

@@ -1,0 +1,370 @@
+html {
+	height: 100%;
+  width: 100%;
+  background: #0c0e0f;
+}
+
+/* Header */
+.header {  
+background: linear-gradient(#0c0e0f, #384246);
+}
+
+.link-logo a {
+  font-family: 'Righteous';
+  color: #c0bfbc;
+  text-decoration: none;
+}
+
+.link-logo a:hover {
+  color: #c0bfbc;
+  text-decoration: none;
+}
+
+.link-logo h1{
+  font-size: 30px;
+  text-align: center;
+}
+
+.icon1 {
+  margin-top: 19px;
+  padding-left: 25px;
+}
+
+.icon1 a {
+  color: #c0bfbc;
+  font-size: 25px;
+}
+
+.icon2 a {
+  color: #c0bfbc;
+  font-size: 25px;
+}
+
+.icon2 {
+  margin-top: 19px;
+  text-align: right;
+  padding-right: 25px;
+}
+
+/* Banner */
+.banner
+{
+  background-image: linear-gradient(rgba(240,240,240, 0), rgba(0,0, 0, 1)), url(img/banner.jpg);
+  background-position: 50% 70%;
+  background-size: cover;
+  background-attachment: scroll;
+  width:100%;
+  height:570px;
+}
+
+.banner-text h4 {
+  text-align: center;
+  text-shadow: -3px 3px 3px black;
+  color: #dfddda;
+  font-family: 'Ubuntu';
+  font-size: 35px;
+}
+
+.banner-text {
+  padding-top: 13px;
+}
+
+.banner-text p {
+  text-align: center;
+}
+
+.banner-btn {
+  font-size: 22px;
+  text-shadow: 1px 1px 1px #1c1c1c;
+  font-family: 'Heebo';
+  color: #dfddda;
+  text-decoration: overline #dfddda;
+}
+
+.banner-btn:hover {
+  color: #527c8e;
+  text-decoration: overline #527c8e;
+  font-size: 28px;
+}
+
+/* Categorias consolas */
+.categories1 {
+  background: radial-gradient(#0b0a0a,#001c29 ,#00364d);
+  text-align: center;
+}
+
+.categories-console h2{
+  padding-top: 10px;
+  margin-bottom: 0px;
+  font-size: 38px;
+  color: #dedede;
+  text-shadow: 2px 2px 2px #1c1c1c;
+  font-family: 'Heebo';
+}
+
+.category-btn {
+  color: #e8e8e8;
+  font-size: 55px;
+  text-shadow: 2px 2px 2px #000000;
+}
+
+.category-btn:hover {
+  color: #92a3aa;
+}
+/* Categorias populares */
+.cat-img {
+  width: 110%;
+}
+
+.categories2 {
+  background: #232529;
+}
+
+/* Gif de ofertas */
+.ofertas {
+  background-image: linear-gradient(rgba(255,255,255, 0), rgba(0,0, 0, 1)), url(img/offer.gif);
+  background-position: 100% 55%;
+  background-size: cover;
+  background-attachment: scroll;
+  width:100%;
+  height:350px;
+}
+
+.offer-text h4 {
+  padding-left: 50px;
+  padding-top: 50px;
+  text-shadow: -3px 3px 3px black;
+  color: #dfddda;
+  font-family: 'Ubuntu';
+  font-size: 35px;
+}
+
+.offer-btn {
+  margin-left: 50px;
+  opacity: .5;
+  color: #dfddda;
+  font-family: 'Heebo';
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.offer-btn:hover {
+  background: #bfbfbf;
+  color: #0f0f0f;
+  font-family: 'Heebo';
+  font-size: 22px;
+}
+
+/* Nuevos Productos */ 
+.news {
+  padding-top: 20px;
+  background: #232529;
+  padding-bottom: 50px;
+}
+
+.news h2{
+  margin-left: 0px;
+  text-shadow: -3px 3px 3px black;
+  color: #dfddda;
+  font-family: 'Heebo';
+}
+
+.new-text {
+  margin-left: 70px;
+}
+
+.news  article {
+  text-align: center;
+}
+
+.news img {
+  height:175px;
+}
+
+.news h6 {
+  text-shadow: -3px 3px 3px black;
+  color: #dfddda;
+  font-family: 'Ubuntu';
+}
+
+.product-btn {
+  margin: 0px 10px;
+  padding: 0px 7px;
+  font-size: 18px;
+  background: #9c9c9c;
+  color: #071931;
+  text-decoration: none;
+}
+
+.product-btn:hover {
+  background: #333c47;
+  color: #bdbdbd;
+}
+
+/* Footer */
+footer {
+  padding-top: 15px;
+  background: linear-gradient(#232529, #384246);
+  text-align: center;
+  padding-bottom:15px;
+}
+
+footer h4 {
+  font-size: 26.5px;
+  text-shadow: -3px 3px 3px black;
+  color: #dfddda;
+}
+
+footer span a {
+  font-size: 50px;
+  text-shadow: -3px 3px 3px black;
+  color: #9badbf;
+  justify-content: center;
+  padding: 0px 15px;
+}
+
+footer h6 {
+  color: #9badbf;
+}
+
+
+
+
+/* Empieza diseño shop.html */
+.navbar-brand {
+  font-family: 'Righteous';
+  color: #c0bfbc;
+  text-decoration: none;
+}
+
+.navbar-brand:hover {
+  color: #c0bfbc;
+  text-decoration: none;
+}
+
+.navbar-style {
+  background: linear-gradient(#0c0e0f, #384246);
+}
+
+.nav-link {
+  color: #c0bfbc;
+  text-decoration: none;
+  font-family: 'Ubuntu';
+}
+
+.nav-link:hover {
+  color: #c0bfbc;
+  text-decoration: none;
+}
+
+.form-control {
+  background: #0c0e0f;
+}
+
+.form-control:placeholder-shown {
+   background: #0c0e0f;
+}
+
+
+.carousel-style {
+background: #0c0e0f;
+}
+
+.carousel-item img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 600px;
+}
+
+.carousel-caption{
+  background: rgba(0,0,0, 0.3);
+}
+
+.shop-menu {
+  background: black;
+}
+
+.accordion-button {
+  background: gray;
+  color: white;
+}
+
+.accordion-button:not(.collapsed){
+  background: gray;
+  color: white;
+}
+
+.accordion-body {
+  background: #252728;
+  color: white;
+}
+.card {
+  background: #252728;
+  border: solid #b3b3b3;
+}
+
+.card h5 {
+  color: #c0bfbc;
+  font-family: 'Ubuntu';
+}
+
+.card img {
+  margin: auto;
+  width:150px;
+}
+
+.card-text {
+  color: #1cc778;
+}
+
+.btn-primary{
+  background: #252728;
+  border: solid #b3b3b3;
+}
+
+.btn-primary:hover {
+  background: #b3b3b3;
+  border: solid #b3b3b3;
+  color: #252728;
+}
+
+.info {
+  color: #b3b3b3;
+}
+
+.info h6 {
+  font-size: 15px;
+}
+
+.info img {
+  width: 100%;
+}
+
+.color-black
+{
+  background: black;
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block
+}
+
+.color-white
+{
+  background: white;
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block
+}
+
+.contact-a {
+  color: #deddda;
+}
+
+
+/* Empiaza diseño blog.html */
+.blog-body {
+  background: #252728;
+}
